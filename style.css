@@ -1,0 +1,34 @@
+body {
+    background-color: lightcyan;
+}
+h1 {
+    font-size: 35px;
+}
+
+h2 {font-size: 25px;}
+
+h1, h2 {
+    color: lightseagreen;
+    text-align: center;
+    font-family: monospace;
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-family: monospace;
+}
+
+th {
+    background-color: lightseagreen;
+    height: 35px;
+    font-size: 17px;
+
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr:hover {
+    background-color: lemonchiffon;
+}
